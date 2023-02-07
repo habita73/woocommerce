@@ -21,7 +21,8 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'vaatatec_wp_epay' );
+define( 'DB_NAME', 'vaatatec_wp_654654' );
+//define( 'DB_NAME', 'vaatatec_wp_epay' );
 
 /** Database username */
 define( 'DB_USER', 'vaata_root' );
